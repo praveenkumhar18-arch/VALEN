@@ -3,7 +3,7 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "DURGA",
+    partnerName: "HIMANSHI",
     
     // Your name (optional, for signature)
     yourName: "PRAVEEN",
